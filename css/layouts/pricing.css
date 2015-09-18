@@ -108,8 +108,7 @@ p {
  * By default, a header is black/white, and has some styles for its <h2> name.
  */
 .pricing-table-header {
-    background: #111;
-    color: #fff;
+   background: url('http://www.techgear.gr/wp-content/uploads/2014/11/starcraft_Legacy-of-the-Void.jpg');
 }
     .pricing-table-header h2 {
         margin: 0;
