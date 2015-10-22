@@ -25,7 +25,7 @@ function showMap(lat, lon) {
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
   // Generate the Map
-  var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+  var map = new google.maps.Map(document.getElementById('map2'), mapOptions);
   // Add a Marker to the Map
   var marker = new google.maps.Marker({
     position: myLatLng,
